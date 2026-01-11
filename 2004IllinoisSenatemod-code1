@@ -55,7 +55,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#1967CE",
             "secondary_color_hex": "#75a3e1",
             "is_active": 1,
-            "image_url": "https://www.jetsimon.com/public/static/images/michael-dukakis-1988.jpg",
+            "image_url": "https://i.postimg.cc/yxJ6XNym/barack-obama-2005.jpg",
             "electoral_victory_message": "<h3>Congratulations! You have won the 1988 election.</h3><p>In spite of a hard-fought challenge from George Bush, you have held on to succeed Ronald Reagan.</p><p>You were always the favorite to win, but a lot could have gone wrong. On the political front, you can work a Democratic House to overturn the worst excesses of Reagan. Internationally, you can hopefully oversee a period of relaxed tension with the Soviet Union.</p>",
             "electoral_loss_message": "<h3>Sorry. You have lost the 1988 election.</h3><p>In spite of you being the favorite, things just never seemed to click once the real campaigning began.</p><p>Time will tell if Bush governs as a moderate, or a staunch conservative. Many Democrats feel that this election was yours to lose, and it seems unlikely that you will be welcome to run again in four years. Your term as Governor, however, runs through 1991.</p>",
             "no_electoral_majority_message": "<h3>Congratulations! You have won the 1988 election.</h3><p>Although the Electoral College was tied, the Democrats have won a solid majority in the House, and will elevate Michael Dukakis to the Presidency.</p><p>On the political front, you can work a Democratic House to overturn the worst excesses of Reagan. Internationally, you can hopefully oversee a period of relaxed tension with the Soviet Union.</p>",

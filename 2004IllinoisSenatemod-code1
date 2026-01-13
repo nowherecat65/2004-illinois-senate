@@ -394,7 +394,7 @@ campaignTrail_temp.running_mate_json = [
     }
 ]
 
-campaignTrail_temp.credits = "Dan Bryan"
+campaignTrail_temp.credits = "theanswerisme"
 
 campaignTrail_temp.global_parameter_json = [
     {

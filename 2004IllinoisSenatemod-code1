@@ -204,75 +204,6 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 160,
-        "fields": {
-            "first_name": "John",
-            "last_name": "Glenn",
-            "election": 15,
-            "party": "Democrat",
-            "state": "Ohio",
-            "priority": 9,
-            "description": "'",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/john-glenn-1988.jpg",
-            "electoral_victory_message": "'",
-            "electoral_loss_message": "'",
-            "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>John Glenn is a Senator from Ohio, whose name has been in the mix for President or Vice President for several years. He originally gained fame as an astronaut in the 1960s, and has fostered a reputation as a moderate Democrat, with a particular interest in science and education. Needless to say, he comes from a crucial state in any national election.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 161,
-        "fields": {
-            "first_name": "Al",
-            "last_name": "Gore",
-            "election": 15,
-            "party": "Democrat",
-            "state": "Tennessee",
-            "priority": 10,
-            "description": "'",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/al-gore-1988.jpg",
-            "electoral_victory_message": "'",
-            "electoral_loss_message": "'",
-            "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>Al Gore has served as a Senator from Tennessee for three years, and like Bush, is the son of a Senator. He has combined a concern for science and technology with a somewhat conservative record on social issues such as gun control, abortion, and gay rights. He did fairly well in the 1988 nomination battle, finishing third to Dukakis and Jesse Jackson. He is also a baby boomer and could help appeal to younger voters.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 162,
-        "fields": {
-            "first_name": "Jesse",
-            "last_name": "Jackson",
-            "election": 15,
-            "party": "Democrat",
-            "state": "Illinois",
-            "priority": 11,
-            "description": "'",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/jesse-jackson-1988.jpg",
-            "electoral_victory_message": "'",
-            "electoral_loss_message": "'",
-            "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>Jesse Jackson was Dukakis's most successful challenger for the Democratic nomination. He has consistently pushed liberal positions, and would be the first African-American to appear on a major party ticket. In the environment of 1988, his race could be an asset and a liability. Many of supporters feel that his success in the primaries should warrant his selection as the running mate, and passing him up could dampen enthusiasm among black and liberal voters.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
         "pk": 163,
         "fields": {
             "first_name": "Andre",
@@ -362,34 +293,10 @@ campaignTrail_temp.running_mate_json = [
     },
     {
         "model": "campaign_trail.running_mate",
-        "pk": 102,
-        "fields": {
-            "candidate": 153,
-            "running_mate": 160
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 103,
-        "fields": {
-            "candidate": 153,
-            "running_mate": 161
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
         "pk": 100,
         "fields": {
             "candidate": 152,
             "running_mate": 158
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 104,
-        "fields": {
-            "candidate": 153,
-            "running_mate": 162
         }
     }
 ]

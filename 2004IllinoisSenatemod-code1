@@ -49,9 +49,9 @@ campaignTrail_temp.candidate_json = [
             "last_name": "Obama",
             "election": 15,
             "party": "Democrat",
-            "state": "Massachusetts",
+            "state": "Cook",
             "priority": 2,
-            "description": "<p>Michael Dukakis has been elected three times as Governor of Massachusetts. His chances this year seem to be good, if he can press the case for his own ability and challenge the readiness of Bush. Dukakis has won the nomination without aligning himself firmly with a specific wing of the party. His national reputation is positive, but inchoate. He will be expected to define himself more clearly, and may need to explain some older votes and decisions as they become known.</p>",
+            "description": "<p>Barack Hussein Obama, an author, a lecturer at the University of Chicago Law School, and a former State Senator, looks like a rising star.<br><br>Early on in his quest for the Democratic nomination for Senate, the understanding among pundits, commentators, and party insiders was that Obama was supposed to lose. One opponent was Blair Hull, a multimillionaire willing to pour cash into the race. Another was Daniel Hynes, the incumbent comptroller with deep ties throughout the state.<br><br>But Obama proved the conventional wisdom wrong. It turns out a black man from Chicago, with a name like Barack Obama, could win, and win big, finishing nearly thirty points ahead of his nearest rival. Now the question is whether he can recreate that success in the general election, and whether he can fulfill the hopes of his voters and starstruck Democrats across the nation.</p>",
             "color_hex": "#1967CE",
             "secondary_color_hex": "#75a3e1",
             "is_active": 1,
@@ -467,7 +467,7 @@ jet_data = {
 
 //#startcode
 
-
+e.HomeStateText = "Home County:";
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#700016";
 

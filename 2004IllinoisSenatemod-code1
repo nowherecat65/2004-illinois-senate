@@ -394,4 +394,43 @@ document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#f2f3ff!important;}</style>";
 
+let style = document.createElement('style');
+style.type = 'text/css';
+style.id = 'dynamic-style';
+
+style.innerHTML = `
+  .campaign_trail_start_emphasis {
+    background-color: #F2F3FF;
+  }
+  .overlay_window h3 {
+    background-color: #e4d1db;
+  }
+  .inner_window_question h3 {
+    background-color: #e4d1db;
+  }
+  #overall_result_container {
+    background-color: #F2F3FF;
+  }
+ #state_result_container {
+   background-color: #F2F3FF;
+}
+#state_info h3 {
+  background-color: #e4d1db;
+}
+#menu_container {
+  background-color: #F2F3FF !important;
+    }
+#state_result h3 {
+  background-color: #e4d1db;
+}
+#overall_result h3 {
+  background-color: #e4d1db;
+}
+  a:-webkit-any-link {
+    color: #000000;
+  }
+`;
+
+document.head.appendChild(style);
+
 //#endcode

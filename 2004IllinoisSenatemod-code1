@@ -363,7 +363,7 @@ campaignTrail_temp.temp_election_list = [
 
 jet_data = {
     "headerColor": "#7b1f4b",
-    "windowColor": "#effbfa",
+    "windowColor": "#e8f7f5",
     "containerColor": "#d6e3f2",
     "innerWindowColor": "#e8f7f5",
     "bannerImageUrl": "https://jetsimon.com/public/placeholderbanner.png",
@@ -380,7 +380,7 @@ corrr = '\n              <h2>THE CAMPAIGN TRAIL</h2><font id="wittyquote" size="
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#7b1f4b";
 
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#effbfa";
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#e8f7f5";
 
 document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
 

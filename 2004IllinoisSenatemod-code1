@@ -362,10 +362,10 @@ campaignTrail_temp.temp_election_list = [
 ]
 
 jet_data = {
-    "headerColor": "#7b1f4b",
-    "windowColor": "#e8f7f5",
-    "containerColor": "#d6e3f2",
-    "innerWindowColor": "#e8f7f5",
+    "headerColor": "#7a1b4c",
+    "windowColor": "#f2f3ff",
+    "containerColor": "#d9deff",
+    "innerWindowColor": "#f2f3ff",
     "bannerImageUrl": "https://jetsimon.com/public/placeholderbanner.png",
     "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
     "endingTextColor": "#000000",
@@ -378,20 +378,20 @@ jet_data = {
 corrr = '\n              <h2>THE CAMPAIGN TRAIL</h2><font id="wittyquote" size="4" color="white"><em>Do we participate in a politics of cynicism, or do we participate in a politics of hope?</em></font>\n            ';
 
 
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#7b1f4b";
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#7a1b4c";
 
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#e8f7f5";
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#f2f3ff";
 
 document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
 
 $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
 
-$(".container")[0].style.backgroundColor = "#d6e3f2";
+$(".container")[0].style.backgroundColor = "#d9deff";
 
 document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
 
 document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
 
-document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#e8f7f5!important;}</style>";
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#f2f3ff!important;}</style>";
 
 //#endcode

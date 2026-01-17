@@ -29,7 +29,7 @@ campaignTrail_temp.election_json = [
         "pk": 15,
         "fields": {
             "year": 1988,
-            "summary": "<p>With Republican incumbent Peter Fitzgerald opting not to seek another term, the fight for his Senate seat is wide open and set to be hard-fought.</p><ul><li>Barack Obama, an Illinois State Senator and law professor, is the Democratic nominee and is running as a mainstream liberal.</li><li>Jack Ryan, a businessman, emerges from a crowded Republican primary running on a conservative-to-moderate message.</li></ul><p>The contest now turns into an expensive, closely watched horse race.</p>",
+            "summary": "<p>With Republican incumbent Peter Fitzgerald opting not to seek a second term, the fight for his Senate seat is wide open and set to be hard-fought.</p><ul><li>Barack Obama, an Illinois State Senator and law professor, is the Democratic nominee and is running as a mainstream liberal.</li><li>Jack Ryan, a businessman, emerges from a crowded Republican primary running on a conservative-to-moderate message.</li></ul><p>The contest now turns into an expensive, closely watched horse race.</p>",
             "image_url": "https://i.postimg.cc/g2GzrL7J/gdsgfas.jpg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://i.postimg.cc/L6xP9SyW/gdsgfask.jpg",
